@@ -1,0 +1,167 @@
+body {
+  margin: 0;
+  background-color: #F1D9F7;
+  text-align: center;
+}
+
+p {
+  font-family: 'Playfair Display', serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #3D3D3D
+}
+h2 {
+font-family: 'Playfair Display', serif;
+font-size: 2.4rem;
+color: #B2C1F3;
+}
+
+h3 {
+  font-size: 1.4rem;
+  color: #B2C1F3;
+}
+
+hr {
+  border-style: dotted;
+  border-top: none;
+  border-color: #C1CDD9;
+  border-width: 5px;
+  margin: 0 auto;
+  width: 5%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.doodles {
+  position: absolute;
+  z-index: -1;
+  bottom: -80px;
+  left: -450px;
+  height: 720;
+  width: 1513px;
+
+}
+
+.t-container {
+  width: 40%;
+  display: block;
+  margin: 0 auto;
+  line-height: 30px;
+  position: relative;
+  padding-top: 250px;
+  padding-bottom: 255px;
+}
+
+
+.main {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.8rem;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.sub {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  font-weight: 500;
+  color: black;
+}
+
+.m-container {
+  background-color: #FFFEFC;
+  padding-top: 55px;
+  padding-bottom: 40px;
+
+
+}
+
+.opening {
+  width: 30%;
+  margin: 0 auto;
+  line-height: 45px;
+  padding-bottom: 50px;
+
+
+}
+
+.avatar {
+  background-color: #F1D9F7;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+
+}
+
+
+.skills {
+  width: 45%;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.skill-row1 {
+  text-align: left;
+  padding-top: 30px;
+}
+
+.computer-icon {
+  height: 200px;
+  width: 200px;
+  background-color: #F1D9F7;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+
+}
+.skill-row2 {
+  text-align: left;
+  padding-top: 120px;
+  padding-bottom: 80px;
+}
+.c-controller {
+  height: 200px;
+  width: 200px;
+  background-color: #F1D9F7;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.b-container {
+  background-color: #F1D9F7;
+  padding-bottom: 60px;
+}
+
+.links {
+  width: 20%;
+  margin: 0 auto;
+  position: relative;
+  top: 40px;
+}
+
+
+.icon {
+  height: 20px;
+  width: 20px;
+}
+
+.contact {
+  position: absolute;
+  left: 25px;
+}
+
+.twitter {
+  position: absolute;
+  right: 25px;
+}
+
+
+.trademark {
+  font-family: serif;
+  position: absolute;
+  top: 80px;
+  left: 85px;
+
+}
